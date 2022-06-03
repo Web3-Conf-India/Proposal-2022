@@ -45,6 +45,7 @@ We have already created a Sample Issue to help you understand.
 
 
 ## When Is The Last Date To Submit?
+
 The submissions were earlier accepted till 31st of May, 2022. The deadline has been [extended](https://twitter.com/web3conf_india/status/1531962115883470848) to submit till 12th of June, 2022.
 
 ## What Will Be Covered If I Get Shortlisted As A Presenter?
