@@ -1,5 +1,6 @@
 # Call for Proposals
-**The call for proposals is now open for Web3Conf India 2022- A collaborative Web3 Conference happening in India for the world.**
+# The call for proposals is now closed for Web3Conf India 2022. Any new proposals will now be closed from here on out
+
 Web3Conf India is a community led not-for -profit initiative by Web3 Meetup India group and allies to create awareness about web3.
 
 ## What Should I Know Before Making A Submission?
