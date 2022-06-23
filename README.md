@@ -3,7 +3,7 @@
 # First round of proposal selections are [announced](https://twitter.com/web3conf_india/status/1539654205324947462). 
 If your proposal was selected, it should be marked with the ["Selected"](https://github.com/Web3-Conf-India/Proposal-2022/labels/Shortlisted) label. Congratulations to everyone who got selected! For those who didnt, dont lose hope yet, we might have another round of selections based on the responses we get till the end of 26th July. Booth and community spaces proposals are yet to be shortlisted.
 
-## Call for proposals is now closed for Web3Conf India 2022. 
+## Call for proposals are now closed for Web3Conf India 2022. 
 
 [Jun 13, 2022](https://github.com/Web3-Conf-India/Proposal-2022/commit/3ab86a4457440b9316a9b1893cd3743c194ff947)
 
